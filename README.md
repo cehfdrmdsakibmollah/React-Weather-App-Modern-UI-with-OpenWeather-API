@@ -6,6 +6,7 @@ It fetches **real-time weather data** from the [OpenWeather API](https://openwea
 ---
 
 ## ✨ Features
+
 - 🌍 Search weather by city name
 - 🌡️ Current temperature, feels-like, and condition
 - 💧 Humidity and 🌬️ wind speed display
@@ -17,15 +18,14 @@ It fetches **real-time weather data** from the [OpenWeather API](https://openwea
 
 ## 🚀 Live Preview
 
-👉 [Demo App on Vercel](#) (Add your deployed link here)
-
+👉 https://reactjs-modern-weather-app.netlify.app/
 
 
 ## 🛠️ Installation & Setup
 
 1. Clone the repo:
 
-   git clone https://github.com/your-username/react-weather-app.git
+   git clone https://github.com/cehfdrmdsakibmollah/React-Weather-App-Modern-UI-with-OpenWeather-API.git
    cd react-weather-app
 
 2. Install dependencies:
